@@ -8,3 +8,5 @@ while programa != 0:
     soma = soma + numero
 
 print("O valor da soma é =", soma)
+
+print("teste")
